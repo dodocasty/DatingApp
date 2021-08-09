@@ -1,0 +1,6 @@
+{
+    "csharp.unitTestDebuggingOptions": {
+    
+    },
+    "javascript.referencesCodeLens.enabled": true
+}
